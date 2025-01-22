@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593680713 source:c:\users\alex\desktop\abrirpastas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
